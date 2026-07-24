@@ -5,7 +5,7 @@
 
 > 🚀 **An interactive Power BI dashboard that provides actionable HR insights by analyzing employee attrition, workforce demographics, job satisfaction, salary trends, and department performance. Built using Power BI, DAX, Power Query, and Microsoft Excel to support data-driven HR decision-making.**
 
----
+
 
 ## 📌 Project Overview
 
@@ -13,7 +13,7 @@ The **HR Analytics Dashboard** is a Business Intelligence solution developed usi
 
 The dashboard leverages **📊 interactive visualizations**, **🧮 DAX measures**, and **🗂️ data modeling** techniques to support strategic, data-driven HR decision-making.
 
----
+
 
 ## 🎯 Objectives
 
@@ -23,7 +23,7 @@ The dashboard leverages **📊 interactive visualizations**, **🧮 DAX measures
 - 🔍 Identify trends affecting employee retention.
 - 🚀 Enable informed workforce planning through interactive dashboards.
 
----
+
 
 ## ✨ Dashboard Features
 
@@ -37,7 +37,7 @@ The dashboard leverages **📊 interactive visualizations**, **🧮 DAX measures
 - 🎛️ Interactive Filters and Slicers
 - 🧮 Dynamic DAX-Based KPIs
 
----
+
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -50,7 +50,7 @@ The dashboard leverages **📊 interactive visualizations**, **🧮 DAX measures
 - 📅 Average Years at Company
 - 😊 Job Satisfaction Score
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -62,7 +62,7 @@ The dashboard leverages **📊 interactive visualizations**, **🧮 DAX measures
 | 🧮 **DAX** | KPI & Measure Creation |
 | 🗂️ **Data Modeling** | Relationship Management |
 
----
+
 
 ## 📂 Dataset
 
@@ -79,7 +79,7 @@ The dashboard is built using an HR employee dataset containing:
 - 😊 Job Satisfaction
 - 📉 Attrition Status
 
----
+
 
 ## 🔍 Business Insights
 
@@ -91,7 +91,7 @@ This dashboard helps stakeholders to:
 - 💰 Monitor salary distribution across job roles.
 - 📊 Support evidence-based HR strategies and workforce planning.
 
----
+
 
 ## 💡 Skills Demonstrated
 
@@ -104,7 +104,7 @@ This dashboard helps stakeholders to:
 - 📉 Business Intelligence
 - 👥 HR Analytics
 
----
+
 
 ## 🚀 Future Enhancements
 
@@ -114,16 +114,17 @@ This dashboard helps stakeholders to:
 - 📈 Advanced Workforce Forecasting
 - 🔐 Role-Based Dashboard Access
 
----
+
 
 ## 📷 Dashboard Preview
 
 > 📌 Add screenshots of your Power BI dashboard here.
 <img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/0ca4d69f-210a-4581-a6b1-659118790c88" />
 <img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/4ed07768-0a44-492a-9263-db32cb872a38" />
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/7762d4d2-aee2-4f2d-a4b2-87811125d470" />
 
 
-```
+
 
 
 
