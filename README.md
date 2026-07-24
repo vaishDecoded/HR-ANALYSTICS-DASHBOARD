@@ -118,7 +118,7 @@ This dashboard helps stakeholders to:
 
 ## 📷 Dashboard Preview
 
-> 📌 Add screenshots of your Power BI dashboard here.
+> 📌 Add screenshots of Power BI dashboard here.
 <img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/0ca4d69f-210a-4581-a6b1-659118790c88" />
 <img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/4ed07768-0a44-492a-9263-db32cb872a38" />
 <img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/7762d4d2-aee2-4f2d-a4b2-87811125d470" />
